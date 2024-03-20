@@ -16,7 +16,7 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=297AF7&random=false&width=435&lines=Front-end+Developer;Kihwan+(Joel)+Chong)](https://git.io/typing-svg)
  
 
-<img src="https://github.com/KiHwanChong/KiHwanChong/assets/8645321/47503915-1232-43e7-abd1-838b9da4f4fa" alt="tumblr_omt8bvbDfC1v9gbpno1_400" width="400" align="right">
+<img src="https://github.com/KiHwanChong/KiHwanChong/assets/8645321/47503915-1232-43e7-abd1-838b9da4f4fa" alt="tumblr_omt8bvbDfC1v9gbpno1_400" width="300" align="right">
 
 [![Kihwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiHwanChong&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
